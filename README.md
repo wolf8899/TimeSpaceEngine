@@ -1,10 +1,9 @@
 # TimeSpaceEngine Project
-To establish a WEB site functioning like the Space engine project - https://spaceengine.org/
 
-Considering:
-* open source
-* WEB based
-* access public databased available
-* webGL 
-* javascrpt, Python
+Free skymap website 
+
+Features
+* Open source project
+* WEB App, webGL
+* Access public databased like NASA/IPAC Extragalactic Database (NED)
 * Metaverse compatible and expandable
